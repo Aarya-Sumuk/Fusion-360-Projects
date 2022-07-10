@@ -1,2 +1,5 @@
-# Fusion-360-Projetcs
-Projects made on F360
+# Fusion-360-Projects
+Projects made :
+1. Pencil
+2. Capsules
+3. Linear Motion bearings 
